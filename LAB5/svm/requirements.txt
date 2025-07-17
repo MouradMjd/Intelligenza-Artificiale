@@ -1,6 +1,0 @@
-numpy
-opencv-python
-scikit-learn
-matplotlib
-googledrivedownloader==0.4
-requests

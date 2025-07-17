@@ -1,7 +1,0 @@
-googledrivedownloader
-numpy
-requests
-pyparsing
-six
-requests
-matplotlib
